@@ -1,4 +1,10 @@
-# PythonProjects
-Some mini-projects I've done, including:
-  - Libraries for ML (numpy, pandas, SKLearn, matplotlib, etc.)
-  - Mathematics for ML (Linear Algebra, Multivariate Calculus, PCA, etc.)
+# ML Mini-Projects
+Some mini-projects I've done for practicing my skills in ML related libraries, not mathematically rigiorous. For well-structured projects, please visit my another repo. 
+They were written in jupyter notebook format, it's easy for demonstration. You may use them as reference.
+Please find libraries involved below:
+- Numpy
+- Pandas
+- Matplotlib
+- Seaborn
+- Scikit Learn
+- Tensorflow with Keras
