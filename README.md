@@ -1,7 +1,8 @@
 # ML Mini-Projects
-Some mini-projects I've done for practicing my skills in Python ML related libraries, not mathematically rigiorous. For well-structured projects, please visit my another repo. 
-They were written in jupyter notebook format, it's easy for demonstration. You may use them as reference.
-Please find libraries involved below:
+Some mini-projects I've done using Python ML related packages, not mathematically rigiorous. For well-structured projects, please visit [my another repo](https://github.com/BillyLam821/Machine-Learning-Projects/).
+They were written in jupyter notebook, that's easier for demonstration and my future reference.
+
+Below are Libraries involved:
 - Numpy
 - Pandas
 - Matplotlib
